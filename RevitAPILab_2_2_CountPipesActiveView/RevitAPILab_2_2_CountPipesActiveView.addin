@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPILab_2_2_CountPipesActiveView.dll"</Assembly>
+		<AddInId>A414C0CA-A3F2-40F1-81EC-627D31147712</AddInId>
+		<FullClassName>RevitAPILab_2_2_CountPipesActiveView.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Количество труб на активном виде</Text>
+	</AddIn>
+</RevitAddIns>
